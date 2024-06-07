@@ -353,7 +353,7 @@ html , body{
 .page5-part2{
     height: 40vh;
     width: 100%;
-    /* background-color: blue; */
+    background-color: blue;
     display: flex;
     align-items:center;
     justify-content: space-evenly;
