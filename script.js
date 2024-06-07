@@ -104,5 +104,5 @@ var tl4 = gsap.timeline({
 })
 
 tl4.to(".main",{
-  backgroundColor:"green"
+  color: "white"
 })
