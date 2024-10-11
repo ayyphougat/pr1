@@ -331,18 +331,19 @@ html , body{
     background-color: white;
     border-radius: 50%;
     padding: 60px 30px;
-    width: 12vw;
-    height: 12vw;
+    width: 8vw;
+    height: 8vw;
+    transition: transform 2s;
 }
 
 .getintouch p{
     color: black;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .getintouch:hover{
     background-color: goldenrod;
-    
+    transform: scale(2,2);
 }
 
 .getintouch:hover p{
