@@ -333,7 +333,7 @@ html , body{
     padding: 60px 30px;
     width: 8vw;
     height: 8vw;
-    transition: transform 2s;
+    transition: transform 2s background-color 2s;
 }
 
 .getintouch p{
